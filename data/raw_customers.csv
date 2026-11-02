@@ -1,0 +1,216 @@
+id,name,email,city,signup_date,amount
+1,,user1@example.com,Amsterdam,31-12-2023,"1,200.00"
+2,jan JANSEN,USER2@Example.com ,AMSTERDAM,31-12-2023,100
+3,,user3@example.com,Almere,2024-01-15,100
+4,  Anna de Vries,USER4@Example.com ,Utrecht,,
+5,  Anna de Vries,USER5@Example.com ,Almere,15/02/2024,abc
+6,Lars  Visser,not-an-email,Amsterdam,15/02/2024,75.5
+7,SOFIE smit,not-an-email,utrecht,15/02/2024,€250.50
+8,Piet Bakker ,user8@example.com,amsterdam ,2024-04-20,100
+9,Piet Bakker ,not-an-email,utrecht,2024-01-15,75.5
+10,SOFIE smit,user10@example.com,Almere,2024-01-15,
+11,Piet Bakker ,not-an-email,Utrecht,31-12-2023,100
+12,  Anna de Vries,USER12@Example.com ,utrecht,2024-01-15,€250.50
+13,  Anna de Vries,,utrecht,2024-04-20,75.5
+14,Piet Bakker ,USER14@Example.com ,Rotterdam,"March 3, 2024",€250.50
+15,,not-an-email,amsterdam ,,75.5
+16,jan JANSEN,USER16@Example.com ,AMSTERDAM,2024-04-20,abc
+17,Piet Bakker ,USER17@Example.com ,Rotterdam,2024-01-15,€250.50
+18,  Anna de Vries,not-an-email,Almere,"March 3, 2024",100
+19,jan JANSEN,not-an-email,Utrecht,31-12-2023,abc
+20,SOFIE smit,,AMSTERDAM,"March 3, 2024",€250.50
+21,jan JANSEN,not-an-email,Almere,,abc
+22,Piet Bakker ,USER22@Example.com ,AMSTERDAM,,abc
+23,  Anna de Vries,user23@example.com,amsterdam ,15/02/2024,75.5
+24,jan JANSEN,,amsterdam ,2024-04-20,abc
+25,Lars  Visser,,utrecht,,100
+26,,user26@example.com,utrecht,31-12-2023,"1,200.00"
+27,  Anna de Vries,not-an-email,Almere,15/02/2024,abc
+28,  Anna de Vries,not-an-email,AMSTERDAM,,100
+29,,not-an-email,Utrecht,15/02/2024,"1,200.00"
+30,jan JANSEN,user30@example.com,Rotterdam,2024-04-20,100
+31,  Anna de Vries,not-an-email,utrecht,15/02/2024,100
+32,jan JANSEN,user32@example.com,amsterdam ,31-12-2023,abc
+33,  Anna de Vries,USER33@Example.com ,AMSTERDAM,31-12-2023,abc
+34,Lars  Visser,USER34@Example.com ,utrecht,,
+35,SOFIE smit,USER35@Example.com ,Utrecht,31-12-2023,"1,200.00"
+36,SOFIE smit,not-an-email,almere ,,abc
+37,  Anna de Vries,USER37@Example.com ,Utrecht,2024-01-15,"1,200.00"
+38,  Anna de Vries,USER38@Example.com ,Utrecht,2024-01-15,100
+39,,user39@example.com,Utrecht,2024-01-15,100
+40,Piet Bakker ,user40@example.com,Utrecht,"March 3, 2024",75.5
+41,SOFIE smit,USER41@Example.com ,AMSTERDAM,31-12-2023,
+42,Lars  Visser,,Utrecht,2024-04-20,abc
+43,jan JANSEN,user43@example.com,amsterdam ,31-12-2023,abc
+44,Piet Bakker ,,Almere,2024-04-20,75.5
+45,  Anna de Vries,user45@example.com,Amsterdam,2024-04-20,75.5
+46,Piet Bakker ,user46@example.com,Utrecht,15/02/2024,€250.50
+47,Lars  Visser,,AMSTERDAM,2024-04-20,€250.50
+48,Piet Bakker ,,Utrecht,2024-01-15,abc
+49,Lars  Visser,user49@example.com,Amsterdam,31-12-2023,
+50,  Anna de Vries,user50@example.com,Utrecht,15/02/2024,abc
+51,SOFIE smit,,Utrecht,2024-04-20,100
+52,jan JANSEN,,Amsterdam,2024-04-20,"1,200.00"
+53,SOFIE smit,not-an-email,Almere,31-12-2023,75.5
+54,Lars  Visser,,AMSTERDAM,15/02/2024,"1,200.00"
+55,jan JANSEN,user55@example.com,Amsterdam,31-12-2023,"1,200.00"
+56,  Anna de Vries,user56@example.com,almere ,,
+57,jan JANSEN,user57@example.com,amsterdam ,15/02/2024,100
+58,Lars  Visser,user58@example.com,Utrecht,2024-04-20,100
+59,Lars  Visser,USER59@Example.com ,Amsterdam,,100
+60,SOFIE smit,not-an-email,utrecht,15/02/2024,75.5
+61,,not-an-email,Utrecht,"March 3, 2024",abc
+62,jan JANSEN,not-an-email,almere ,"March 3, 2024",100
+63,  Anna de Vries,,amsterdam ,2024-01-15,
+64,jan JANSEN,not-an-email,AMSTERDAM,"March 3, 2024",100
+65,jan JANSEN,not-an-email,utrecht,15/02/2024,abc
+66,Lars  Visser,not-an-email,Amsterdam,31-12-2023,
+67,Piet Bakker ,user67@example.com,AMSTERDAM,"March 3, 2024",100
+68,  Anna de Vries,USER68@Example.com ,utrecht,"March 3, 2024",
+69,jan JANSEN,not-an-email,Utrecht,31-12-2023,75.5
+70,Piet Bakker ,,utrecht,2024-01-15,100
+71,,,utrecht,2024-01-15,100
+72,Piet Bakker ,USER72@Example.com ,utrecht,15/02/2024,75.5
+73,SOFIE smit,,Amsterdam,2024-01-15,100
+74,,USER74@Example.com ,Amsterdam,"March 3, 2024",
+75,Lars  Visser,USER75@Example.com ,Almere,15/02/2024,100
+76,Piet Bakker ,not-an-email,Amsterdam,"March 3, 2024",€250.50
+77,,USER77@Example.com ,amsterdam ,"March 3, 2024",
+78,SOFIE smit,USER78@Example.com ,Utrecht,15/02/2024,€250.50
+79,SOFIE smit,user79@example.com,AMSTERDAM,31-12-2023,"1,200.00"
+80,SOFIE smit,USER80@Example.com ,utrecht,15/02/2024,75.5
+81,  Anna de Vries,,Amsterdam,2024-04-20,€250.50
+82,jan JANSEN,,Rotterdam,"March 3, 2024",€250.50
+83,jan JANSEN,user83@example.com,Utrecht,2024-04-20,"1,200.00"
+84,Piet Bakker ,user84@example.com,utrecht,"March 3, 2024",75.5
+85,Lars  Visser,,Rotterdam,2024-01-15,100
+86,Piet Bakker ,USER86@Example.com ,utrecht,2024-01-15,100
+87,Lars  Visser,,Rotterdam,31-12-2023,"1,200.00"
+88,SOFIE smit,user88@example.com,Almere,,€250.50
+89,Piet Bakker ,user89@example.com,Almere,2024-01-15,
+90,Lars  Visser,USER90@Example.com ,Rotterdam,2024-04-20,100
+91,,not-an-email,Rotterdam,31-12-2023,100
+92,,not-an-email,utrecht,31-12-2023,abc
+93,Piet Bakker ,,utrecht,,€250.50
+94,jan JANSEN,,Almere,31-12-2023,75.5
+95,jan JANSEN,not-an-email,Almere,,100
+96,Piet Bakker ,not-an-email,Utrecht,2024-04-20,
+97,Lars  Visser,not-an-email,almere ,2024-04-20,abc
+98,,USER98@Example.com ,almere ,31-12-2023,€250.50
+99,,user99@example.com,utrecht,,75.5
+100,,not-an-email,amsterdam ,15/02/2024,75.5
+101,Piet Bakker ,USER101@Example.com ,Utrecht,15/02/2024,100
+102,  Anna de Vries,USER102@Example.com ,almere ,,100
+103,SOFIE smit,,Utrecht,31-12-2023,75.5
+104,SOFIE smit,,Almere,15/02/2024,€250.50
+105,,user105@example.com,amsterdam ,2024-04-20,€250.50
+106,jan JANSEN,,Amsterdam,,€250.50
+107,  Anna de Vries,,AMSTERDAM,2024-04-20,75.5
+108,Lars  Visser,not-an-email,almere ,,75.5
+109,Lars  Visser,,almere ,15/02/2024,75.5
+110,SOFIE smit,,utrecht,15/02/2024,75.5
+111,Piet Bakker ,,Utrecht,"March 3, 2024",abc
+112,  Anna de Vries,not-an-email,Utrecht,"March 3, 2024","1,200.00"
+113,Piet Bakker ,user113@example.com,AMSTERDAM,15/02/2024,€250.50
+114,SOFIE smit,USER114@Example.com ,Utrecht,2024-01-15,abc
+115,SOFIE smit,not-an-email,almere ,2024-04-20,100
+116,jan JANSEN,,Almere,,75.5
+117,  Anna de Vries,,almere ,2024-01-15,"1,200.00"
+118,Piet Bakker ,,Almere,,75.5
+119,,USER119@Example.com ,almere ,15/02/2024,"1,200.00"
+120,SOFIE smit,,Amsterdam,2024-04-20,"1,200.00"
+121,,,AMSTERDAM,2024-04-20,€250.50
+122,Lars  Visser,user122@example.com,Almere,,
+123,,user123@example.com,amsterdam ,31-12-2023,abc
+124,jan JANSEN,,AMSTERDAM,2024-01-15,"1,200.00"
+125,SOFIE smit,not-an-email,Utrecht,2024-04-20,"1,200.00"
+126,Piet Bakker ,,utrecht,2024-04-20,"1,200.00"
+127,  Anna de Vries,,Amsterdam,31-12-2023,
+128,  Anna de Vries,not-an-email,Utrecht,31-12-2023,100
+129,,user129@example.com,Amsterdam,15/02/2024,€250.50
+130,  Anna de Vries,USER130@Example.com ,Utrecht,15/02/2024,abc
+131,,user131@example.com,Utrecht,2024-04-20,75.5
+132,Piet Bakker ,not-an-email,AMSTERDAM,,
+133,,user133@example.com,AMSTERDAM,"March 3, 2024",100
+134,Lars  Visser,user134@example.com,utrecht,,75.5
+135,SOFIE smit,,Utrecht,2024-01-15,
+136,,USER136@Example.com ,amsterdam ,31-12-2023,"1,200.00"
+137,,user137@example.com,Amsterdam,"March 3, 2024",
+138,SOFIE smit,not-an-email,amsterdam ,,75.5
+139,Piet Bakker ,user139@example.com,Almere,2024-04-20,100
+140,SOFIE smit,not-an-email,almere ,31-12-2023,€250.50
+141,SOFIE smit,USER141@Example.com ,utrecht,,
+142,SOFIE smit,,Almere,31-12-2023,
+143,Piet Bakker ,not-an-email,Utrecht,2024-01-15,"1,200.00"
+144,SOFIE smit,USER144@Example.com ,almere ,,
+145,,,Rotterdam,2024-01-15,abc
+146,Piet Bakker ,USER146@Example.com ,almere ,15/02/2024,"1,200.00"
+147,Piet Bakker ,not-an-email,utrecht,,75.5
+148,Piet Bakker ,user148@example.com,Utrecht,2024-01-15,€250.50
+149,,,almere ,,€250.50
+150,,,almere ,2024-04-20,100
+151,  Anna de Vries,not-an-email,Utrecht,2024-04-20,75.5
+152,jan JANSEN,not-an-email,Rotterdam,2024-04-20,
+153,Lars  Visser,not-an-email,Almere,31-12-2023,
+154,Piet Bakker ,not-an-email,almere ,"March 3, 2024","1,200.00"
+155,Piet Bakker ,USER155@Example.com ,amsterdam ,31-12-2023,€250.50
+156,Piet Bakker ,user156@example.com,AMSTERDAM,15/02/2024,€250.50
+157,,,utrecht,31-12-2023,
+158,Lars  Visser,not-an-email,amsterdam ,15/02/2024,"1,200.00"
+159,jan JANSEN,not-an-email,AMSTERDAM,"March 3, 2024",100
+160,,USER160@Example.com ,utrecht,2024-01-15,100
+161,Lars  Visser,not-an-email,AMSTERDAM,31-12-2023,abc
+162,  Anna de Vries,user162@example.com,utrecht,2024-04-20,abc
+163,SOFIE smit,not-an-email,AMSTERDAM,2024-01-15,"1,200.00"
+164,SOFIE smit,user164@example.com,amsterdam ,2024-04-20,abc
+165,  Anna de Vries,user165@example.com,AMSTERDAM,15/02/2024,
+166,Piet Bakker ,user166@example.com,Utrecht,2024-01-15,
+167,SOFIE smit,USER167@Example.com ,Almere,2024-04-20,abc
+168,Piet Bakker ,,utrecht,,
+169,  Anna de Vries,user169@example.com,Utrecht,31-12-2023,€250.50
+170,Piet Bakker ,user170@example.com,AMSTERDAM,15/02/2024,€250.50
+171,Lars  Visser,user171@example.com,AMSTERDAM,2024-01-15,abc
+172,SOFIE smit,,utrecht,2024-01-15,€250.50
+173,Piet Bakker ,not-an-email,almere ,2024-01-15,75.5
+174,jan JANSEN,not-an-email,Utrecht,2024-04-20,100
+175,Lars  Visser,USER175@Example.com ,AMSTERDAM,"March 3, 2024",€250.50
+176,  Anna de Vries,user176@example.com,AMSTERDAM,"March 3, 2024",
+177,,not-an-email,almere ,2024-01-15,abc
+178,,not-an-email,Almere,"March 3, 2024",
+179,Lars  Visser,,almere ,2024-01-15,
+180,  Anna de Vries,,Rotterdam,,"1,200.00"
+181,  Anna de Vries,user181@example.com,Utrecht,31-12-2023,
+182,Lars  Visser,user182@example.com,utrecht,,100
+183,jan JANSEN,,almere ,"March 3, 2024",€250.50
+184,Lars  Visser,,almere ,2024-01-15,abc
+185,Piet Bakker ,,Rotterdam,"March 3, 2024",75.5
+186,  Anna de Vries,USER186@Example.com ,Rotterdam,2024-04-20,75.5
+187,SOFIE smit,not-an-email,Almere,,100
+188,SOFIE smit,user188@example.com,Rotterdam,"March 3, 2024","1,200.00"
+189,  Anna de Vries,,Amsterdam,31-12-2023,
+190,SOFIE smit,,Amsterdam,15/02/2024,
+191,Piet Bakker ,,almere ,2024-01-15,€250.50
+192,Piet Bakker ,USER192@Example.com ,utrecht,2024-04-20,75.5
+193,SOFIE smit,user193@example.com,Amsterdam,31-12-2023,
+194,jan JANSEN,USER194@Example.com ,utrecht,,100
+195,Lars  Visser,,amsterdam ,15/02/2024,100
+196,SOFIE smit,user196@example.com,AMSTERDAM,2024-04-20,75.5
+197,Piet Bakker ,not-an-email,Almere,2024-04-20,abc
+198,jan JANSEN,,AMSTERDAM,2024-04-20,€250.50
+199,Lars  Visser,USER199@Example.com ,amsterdam ,"March 3, 2024",abc
+200,Piet Bakker ,not-an-email,Amsterdam,"March 3, 2024",75.5
+77,,USER77@Example.com ,amsterdam ,"March 3, 2024",
+151,  Anna de Vries,not-an-email,Utrecht,2024-04-20,75.5
+149,,,almere ,,€250.50
+169,  Anna de Vries,user169@example.com,Utrecht,31-12-2023,€250.50
+126,Piet Bakker ,,utrecht,2024-04-20,"1,200.00"
+39,,user39@example.com,Utrecht,2024-01-15,100
+115,SOFIE smit,not-an-email,almere ,2024-04-20,100
+138,SOFIE smit,not-an-email,amsterdam ,,75.5
+124,jan JANSEN,,AMSTERDAM,2024-01-15,"1,200.00"
+89,Piet Bakker ,user89@example.com,Almere,2024-01-15,
+86,Piet Bakker ,USER86@Example.com ,utrecht,2024-01-15,100
+142,SOFIE smit,,Almere,31-12-2023,
+196,SOFIE smit,user196@example.com,AMSTERDAM,2024-04-20,75.5
+140,SOFIE smit,not-an-email,almere ,31-12-2023,€250.50
+97,Lars  Visser,not-an-email,almere ,2024-04-20,abc
