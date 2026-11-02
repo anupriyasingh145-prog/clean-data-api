@@ -11,26 +11,25 @@ reporting or integration.
 3. Exposed it through a FastAPI REST API with filtering
 
 ## Before / After
+
+Raw CSV:
+```
+id,name,email,city,signup_date,amount
 1,,user1@example.com,Amsterdam,31-12-2023,"1,200.00"
 2,jan JANSEN,USER2@Example.com ,AMSTERDAM,31-12-2023,100
-3,,user3@example.com,Almere,2024-01-15,100
-4,  Anna de Vries,USER4@Example.com ,Utrecht,,
- {
-    "id": 81,
-    "name": "Anna De Vries",
-    "email": null,
-    "city": "Amsterdam",
-    "signup_date": "2024-04-20",
-    "amount": 250.5
-  },
-  {
-    "id": 100,
-    "name": null,
-    "email": null,
-    "city": "Amsterdam",
-    "signup_date": "2024-02-15",
-    "amount": 75.5
-  },
+```
+
+API response:
+```json
+{
+  "id": 81,
+  "name": "Anna De Vries",
+  "email": null,
+  "city": "Amsterdam",
+  "signup_date": "2024-04-20",
+  "amount": 250.5
+}
+```
 
 ## Run it
     python3 -m venv venv
