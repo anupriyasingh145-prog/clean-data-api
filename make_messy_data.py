@@ -1,4 +1,5 @@
-import csv, random
+import csv
+import random
 from pathlib import Path
 
 random.seed(42)
